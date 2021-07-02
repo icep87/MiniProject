@@ -1,0 +1,15 @@
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/MiniProject-1/MiniProject-1/obj/Debug/net5.0/MiniProject-1.csproj.AssemblyReference.cache
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/MiniProject-1/MiniProject-1/obj/Debug/net5.0/MiniProject-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/MiniProject-1/MiniProject-1/obj/Debug/net5.0/MiniProject-1.AssemblyInfoInputs.cache
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/MiniProject-1/MiniProject-1/obj/Debug/net5.0/MiniProject-1.AssemblyInfo.cs
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/MiniProject-1/MiniProject-1/obj/Debug/net5.0/MiniProject-1.csproj.CoreCompileInputs.cache
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/MiniProject-1/MiniProject-1/bin/Debug/net5.0/MiniProject-1.deps.json
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/MiniProject-1/MiniProject-1/bin/Debug/net5.0/MiniProject-1.runtimeconfig.json
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/MiniProject-1/MiniProject-1/bin/Debug/net5.0/MiniProject-1.runtimeconfig.dev.json
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/MiniProject-1/MiniProject-1/bin/Debug/net5.0/MiniProject-1.dll
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/MiniProject-1/MiniProject-1/bin/Debug/net5.0/ref/MiniProject-1.dll
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/MiniProject-1/MiniProject-1/bin/Debug/net5.0/MiniProject-1.pdb
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/MiniProject-1/MiniProject-1/obj/Debug/net5.0/MiniProject-1.dll
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/MiniProject-1/MiniProject-1/obj/Debug/net5.0/ref/MiniProject-1.dll
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/MiniProject-1/MiniProject-1/obj/Debug/net5.0/MiniProject-1.pdb
+/Users/piotrplaczko/Desktop/Lexicon Developer Utbildning/MiniProject-1/MiniProject-1/obj/Debug/net5.0/MiniProject-1.genruntimeconfig.cache
